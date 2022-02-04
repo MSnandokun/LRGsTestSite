@@ -3,29 +3,7 @@
 A copy of the MIM 2016 topology guide for testing purposes only. Text in markup as webpart feed sor SPO portal. 
 
 ---
-# required metadata
 
-title: Topology guide for deployment | Microsoft Docs
-description: Understand the MIM 2016 components, and get suggestions for how to deploy them in your environment.
-keywords:
-author: billmath
-ms.author: billmath
-manager: femila
-ms.date: 03/21/2017
-ms.topic: article
-ms.service: microsoft-identity-manager
-ms.technology: security
-ms.assetid: 735dc357-dfba-4f68-a5b3-d66d6c018803
-
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
-ms.reviewer: mwahl
-ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
 
 ---
 
